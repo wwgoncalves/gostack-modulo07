@@ -41,6 +41,7 @@ export const ProductList = styled.ul`
       border-radius: 4px;
       overflow: hidden;
       margin-top: auto;
+      text-transform: uppercase;
       transition: background-color 0.2s;
 
       &:hover {
