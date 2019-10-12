@@ -51,7 +51,7 @@ export const ProductTable = styled.table`
   }
 
   strong {
-    color #333;
+    color: #333;
     display: block;
   }
 
